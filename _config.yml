@@ -15,8 +15,8 @@ name                     : &name "Rohith Sirigadde"
 description              : &description "Rohith's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://rohithsirigadde.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : #
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   
   name             : "Rohith Nagarjuna Sirigadde"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Engineer shaping the next generation of AI-driven systems#
+  bio              : "Machine Learning Engineer shaping the next generation of AI-driven systems"
   location         : "United States of America"
   employer         : "Wichita State University"
   uri              : # URL
