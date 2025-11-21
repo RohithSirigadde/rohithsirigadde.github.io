@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me - Rohith Sirigadde, Machine Learning Engineer"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
