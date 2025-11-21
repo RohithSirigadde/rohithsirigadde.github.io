@@ -9,6 +9,12 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-00R4FD2120"
+    anonymize_ip: false
+
 minimal_mistakes_skin    : "default"
 title                    : "Rohith Sirigadde"
 title_separator          : "-"
