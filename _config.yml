@@ -28,11 +28,12 @@ author:
   
   name             : "Rohith Nagarjuna Sirigadde"
   pronouns         : # example: "she/her"  
-  bio              : | 
+  bio              : |
     Machine Learning Engineer.
     Shaping the next generation of AI-driven systems
   location         : "United States of America"
-  employer         : "M.S (Data Science), Wichita State University"
+  employer         : |
+    M.S (Data Science), Wichita State University
   uri              : # URL
   email            : "nagarjuna.rohith@gmail.com" 
 
