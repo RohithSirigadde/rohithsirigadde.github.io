@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Rohith Sirigadde / Site Title"
+title                    : "Rohith Sirigadde"
 title_separator          : "-"
 name                     : &name "Rohith Sirigadde"
 description              : &description "Rohith's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   
   name             : "Rohith Nagarjuna Sirigadde"
   pronouns         : # example: "she/her"  
-  bio              : #
+  bio              : "Machine Learning Engineer shaping the next generation of AI-driven systems#
   location         : "United States of America"
   employer         : "Wichita State University"
   uri              : # URL
