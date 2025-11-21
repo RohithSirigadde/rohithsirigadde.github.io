@@ -9,6 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
+minimal_mistakes_skin    : "default"
 title                    : "Rohith Sirigadde"
 title_separator          : "-"
 name                     : &name "Rohith Sirigadde"
